@@ -1,2 +1,2 @@
-# gotit
-MathX Integration Instructions for GotIt!
+#MathX Integration Instructions
+
