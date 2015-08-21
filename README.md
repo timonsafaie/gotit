@@ -56,10 +56,10 @@ There, the `div` is now a MathX textbox.  Now to write math...
 ###Typing Math
 If the MathX call is initialized with `mathModeOnly: false`, then you must type `\\` to enter 'Math Mode'.  Here you can build complex expressions with familiar syntax.  Just to highlight a few:
 
-* ^ is Superscript
-* _ is Subscript
-* / is Fractions/Divisions
-* TAB is to navigate
+* <kbd>^</kbd> is Superscript
+* <kbd>_</kbd> is Subscript
+* <kbd>/</kbd> is Fractions/Divisions
+* <kbd>tab</kbd> is to navigate
 
 Type symbols by their names (i.e. type 'pi' to get &pi;, 'sqrt' to get &sqrt;, etc.)
 
