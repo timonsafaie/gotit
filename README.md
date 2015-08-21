@@ -61,9 +61,9 @@ If the MathX call is initialized with `mathModeOnly: false`, then you must type 
 * <kbd>/</kbd> is Fractions/Divisions
 * <kbd>tab</kbd> is to navigate
 
-Type symbols by their names (i.e. type 'pi' to get &pi;, 'sqrt' to get &sqrt;, etc.)
+Type symbols by their names (i.e. type 'pi' to get &pi;, 'sqrt' to get &radic;, etc.)
 
-Contact *Timon Safaie* if you have any problems: timon@demonstranda.com
+Contact **Timon Safaie** if you have any problems: timon@demonstranda.com
 
 Enjoy!
 
